@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x  3 marat marat 4,0K фев 14 13:30 ./
+drwxr-x--- 21 marat marat 4,0K фев 14 13:24 ../
+-rw-rw-r--  1 marat marat  589 фев 14 13:24 config.txt
+-rw-rw-r--  1 marat marat  174 фев 14 13:21 first.txt
+drwxrwxr-x  8 marat marat 4,0K фев 14 13:28 .git/
+-rw-rw-r--  1 marat marat    0 фев 14 13:30 ls.txt
+-rw-rw-r--  1 marat marat   10 фев 14 13:21 README.md
+-rw-rw-r--  1 marat marat  408 фев 14 13:21 status.txt
